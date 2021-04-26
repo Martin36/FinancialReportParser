@@ -1,0 +1,9 @@
+,Unnamed: 0,Gross,Stage 1,Stage 2,Stage 3,Loss,Net carrying
+0,SEK m,carrying  amount,12M ECL,LECL,LECL,allowance,amount
+1,Opening balance 1 Jan 2019,"1,012",–2,0,–1,–3,"1,009"
+2,Interest income,88,–,–,–,–,88
+3,Amortisations and interest payments,–220,–,–,–,–,–220
+4,Changes in risk parameters,–,1,0,–3,–2,–2
+5,Derecognitions,–9,–,–,–,–,–9
+6,Translation differences,41,0,0,0,0,41
+7,Closing balance 31 Dec 2019,912,–1,0,–4,–5,907

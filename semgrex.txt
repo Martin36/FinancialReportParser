@@ -1,0 +1,14 @@
+{} <<nsubj {}
+{} </obl.*/ {} >nummod {} | <nummod {}
+
+# Det här uttrycket lyckas plocka ut siffrorna från de 3 första meningarna i input.txt
+{} </obl.*/ {} >nummod {} | <</obl.*/ {} <nummod {} | </obj/ {} >compound {} | <</obj/ {} <compound {} | <</obj/ {} <nummod {} 
+
+# Lite förenklat kan det se ut så här:
+{} </obl.*/ {} >nummod {} | </obj/ {} >compound {} | <</obj/ {} <compound {} | [<</obj/ {} | <</obl.*/ {}] <nummod {}
+
+# Följande klarar de 8 första meningarna i input.txt
+{} </obl.*|obj/ {} >nummod {} | </obj/ {} >compound {} | <</obj/ {} <compound {} | <</obl.*|obj/ {} <nummod {}
+
+# Det här uttrycket klarar de först 15 meningarna i input.txt hyfsat bra, men det matchar en del ord som inte ska vara med.
+{} </obl.*|obj/ {} >nummod {} | </obl.*|obj/ {} >compound {} | <</obl.*|obj/ {} <compound {} | <</obl.*|obj/ {} <nummod {}
