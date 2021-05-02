@@ -1,4 +1,5 @@
 {} <<nsubj {}
+
 {} </obl.*/ {} >nummod {} | <nummod {}
 
 # Det här uttrycket lyckas plocka ut siffrorna från de 3 första meningarna i input.txt
