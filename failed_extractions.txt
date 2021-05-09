@@ -1,0 +1,19 @@
+# Failar att plocka ut "Earnings before"
+Earnings before tax totalled SEK 277m ( 52 ) .
+
+# När strukturen är {subj} of {obj} så plockar semgrexet ut allt som subject
+Impairment gains and losses of SEK 30m ( 14 ) pertain to the difference between projected and actual collections , portfolio revaluations and credit reserves for perform - ing loans .
+
+Hoist Finance ’s net investment in bonds and other securities totalled SEK -466 m ( 309 ) during the quarter .
+
+# Den här är lite klurig eftersom den beskriver två relationer, en för hur mycket total assets minskade och den andra för hur mycket total assets var
+Total assets decreased SEK 2,523 m as compared with 31 December 2019 and totalled SEK 31,864 m ( 34,387 ) .
+
+# Det här meningen var tydligen svårt, 
+Capitalised project costs related to securiti - sation were expensed during the fourth quarter , which had a negative impact of SEK -9 m.
+# Vad som extraherades var förljande: 
+{ 'object': 'SEK -9m',
+    'subject': 'during the fourth quarter , which had a negative impact of SEK '
+               '-9 m'}
+# Här skulle man kanske vilja ha "Capitalised project costs related to securiti - sation" som subjekt
+

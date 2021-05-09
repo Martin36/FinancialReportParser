@@ -13,3 +13,13 @@
 
 # Det här uttrycket klarar de först 15 meningarna i input.txt hyfsat bra, men det matchar en del ord som inte ska vara med.
 {} </obl.*|obj/ {} >nummod {} | </obl.*|obj/ {} >compound {} | <</obl.*|obj/ {} <compound {} | <</obl.*|obj/ {} <nummod {}
+
+
+{} <amod {} | >/nmod.*/ {} | </nmod.*/ {} | <case {pos:NNS} 
+
+# Det här funkar för att plocka ut subjektet (issuance of senior bonds) i meningen "Successful issuance of senior bonds totalling EUR 200m and repurchase of EUR 102m senior bonds issued in 2017 ."
+# dock plockas även "of senior bonds" ut också. Men det borde inte vara några problem ifall man endast plockar ut den första kontinuerliga matchningen
+{} >acl {} | </amod|case/ ({} >acl {}) | >/nmod.*/ ({} >acl {})
+
+
+{} >acl {} | </amod|case/ ({} >acl {}) | >/nmod.*/ ({} >acl {}) | <<nsubj {}

@@ -2,3 +2,4 @@ venv/
 .vscode/
 data/
 pdfs/
+__pycache__/

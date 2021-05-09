@@ -1,0 +1,402 @@
+[
+  {
+    "org_sent": "Successful issuance of senior bonds totalling EUR 200m and repurchase of EUR 102m senior bonds issued in 2017 .",
+    "subject": "issuance of senior bonds",
+    "object": "EUR 200m"
+  },
+  {
+    "org_sent": "Our cash collections of SEK 1,747 m is in line with the first quarter 2020 despite low investment volumes for the year .",
+    "subject": "Our cash collections of SEK 1,747 m",
+    "object": "SEK 1,747m"
+  },
+  {
+    "org_sent": "Due to expected delays on certain cash flows , the total impairments in the fourth quarter are SEK -49 m .",
+    "subject": "the total impairments in the fourth quarter",
+    "object": "SEK -49m"
+  },
+  {
+    "org_sent": "Interest income on acquired loan portfolios decreased during the quarter to SEK 778m ( 865 ) , driven mainly by the low volume of portfolio acquisi - tions during the year .",
+    "subject": "Interest income on acquired loan portfolios",
+    "object": "SEK 778m"
+  },
+  {
+    "org_sent": "Other interest income totalled SEK 0m ( - 3 ) .",
+    "subject": "Other interest income",
+    "object": "SEK 0m"
+  },
+  {
+    "org_sent": "Interest expense for the quarter totalled SEK -138 m ( - 149 ) .",
+    "subject": "Interest expense for the quarter",
+    "object": "SEK -138m"
+  },
+  {
+    "org_sent": "The decrease is mainly attributable to lower interest expense for external financing in the bond market and deposits from the public .",
+    "subject": "The decrease"
+  },
+  {
+    "org_sent": "Impairment gains and losses totalled SEK -49 m ( 22 ) during the quarter and include realised collections against active forecast during the period , as well as forward - looking portfolio revaluations .",
+    "subject": "Impairment gains and losses",
+    "object": "SEK -49m"
+  },
+  {
+    "org_sent": "These guarantee commitments had an impact on impairment gains and losses of SEK 175m .",
+    "subject": "These guarantee commitments",
+    "object": "SEK 175m"
+  },
+  {
+    "org_sent": "Adjusted for the price adjustments , portfolio revalu - ations totalled SEK -123 m , of which SEK -76 m pertains to secured port - folios .",
+    "subject": "portfolio revalu - ations",
+    "object": "SEK -123m"
+  },
+  {
+    "org_sent": "Collec - tions exceeding active forecast , adjusted for price adjustments , during the quarter totalled SEK 74m , of which SEK 44m pertains to unsecured portfolios .",
+    "subject": "Collec - tions exceeding active forecast ,",
+    "object": "SEK 74m"
+  },
+  {
+    "org_sent": "For unsecured portfolios , the quarter \u2019s realised collec - tions correspond to 103 per cent of active forecast .",
+    "subject": "quarter \ufffds"
+  },
+  {
+    "org_sent": "Fee and commission income decreased to SEK 18m ( 30 ) .",
+    "subject": "Fee and commission income",
+    "object": "SEK 18m"
+  },
+  {
+    "org_sent": "The decrease is attributable to the closure of third - party collection services in the UK .",
+    "subject": "The decrease"
+  },
+  {
+    "org_sent": "Net result from financial transactions totalled SEK 39m ( 1 ) and is primarily attributable to positive currency effects and to unrealised value increases in interest rate hedging positions .",
+    "subject": "Net result from financial transactions",
+    "object": "SEK 39m"
+  },
+  {
+    "org_sent": "The bond repurchase conducted in November produced a negative impact on earnings totalling SEK -18 m , including repurchase premium .",
+    "subject": "The bond",
+    "object": "SEK -18m"
+  },
+  {
+    "org_sent": "Other operating income totalled SEK 0m ( 5 ) .",
+    "subject": "Other operating income",
+    "object": "SEK 0m"
+  },
+  {
+    "org_sent": "Personnel expenses decreased during the quarter to SEK -189 m ( - 211 ) .",
+    "subject": "Personnel expenses",
+    "object": "SEK -189m"
+  },
+  {
+    "org_sent": "Collection costs totalled SEK -215 m ( - 231 ) during the quar - ter .",
+    "subject": "Collection",
+    "object": "SEK -215m"
+  },
+  {
+    "org_sent": "A provision of SEK -9 m was made during the fourth quarter for a legal proceeding in Spain .",
+    "subject": "",
+    "object": "SEK -9m"
+  },
+  {
+    "org_sent": "Administrative expenses decreased during the quarter to SEK -152 m ( - 180 ) , with the decrease attributable primarily to expenses during the comparative quarter associated with securitisation in Italy and to start - up costs for IT outsourcing .",
+    "subject": "Administrative expenses",
+    "object": "SEK -152m"
+  },
+  {
+    "org_sent": "Capitalised project costs related to securiti - sation were expensed during the fourth quarter , which had a negative impact of SEK -9 m .",
+    "subject": "during the fourth quarter , which had a negative impact of SEK -9 m",
+    "object": "SEK -9m"
+  },
+  {
+    "org_sent": "Depreciation and amortisation of tangible and intangible assets totalled SEK -36 m ( - 29 ) .",
+    "subject": "Depreciation and amortisation of tangible and intangible assets",
+    "object": "SEK -36m"
+  },
+  {
+    "org_sent": "The increase is related to the SEK -5 m impairment of an IT project .",
+    "subject": "",
+    "object": "SEK -5m"
+  },
+  {
+    "org_sent": "Profit / loss for the quarterShare of profit from joint ventures totalled SEK 12m ( 30 ) , with the de-crease due mainly to exchange rate effects for Hoist Finance \u2019s joint ven - ture holding in Poland .",
+    "subject": "Profit / loss for the quarterShare of profit from joint ventures",
+    "object": "SEK 12m"
+  },
+  {
+    "org_sent": "Income tax expense for the period totalled SEK -20 m ( - 36 ) , corresponding to an effective tax rate of 28.7 per cent , of which SEK -7 m is related to tax attributable to previous years .",
+    "subject": "Income tax expense for the period",
+    "object": "SEK -20m"
+  },
+  {
+    "org_sent": "Net profit / loss totalled SEK 48m ( 111 ) .",
+    "subject": "Net profit / loss",
+    "object": "SEK 48m"
+  },
+  {
+    "org_sent": "Interest income on acquired loan portfolios totalled SEK 3,302 m ( 3,359 ) during the year .",
+    "subject": "Interest income on acquired loan portfolios",
+    "object": "SEK 3,302m"
+  },
+  {
+    "org_sent": "Other interest income totalled SEK 6m ( - 2 ) .",
+    "subject": "Other interest income",
+    "object": "SEK 6m"
+  },
+  {
+    "org_sent": "Interest expense increased to SEK -582 m ( - 494 ) .",
+    "subject": "Interest expense",
+    "object": "SEK -582m"
+  },
+  {
+    "org_sent": "The increase is primarily attrib - utable to the securitisation of Italian loan portfolios conducted during Q4 2019 .",
+    "subject": "The increase"
+  },
+  {
+    "org_sent": "Impairment gains and losses totalled SEK -458 m ( 120 ) , constituting the year \u2019s realised collections against active forecast as well as for - ward - looking portfolio revaluations .",
+    "subject": "Impairment gains and losses",
+    "object": "SEK -458m"
+  },
+  {
+    "org_sent": "Portfolio revaluations during the year totalled SEK -805 m ( - 144 ) and are mainly attributable to the revaluation of portfolios conducted in Spain during Q1 and to revaluations conducted during Q2 related to Covid - 19 and its impact on collections .",
+    "subject": "Portfolio revaluations during the year",
+    "object": "SEK -805m"
+  },
+  {
+    "org_sent": "Collections against active forecast totalled SEK 348m ( 267 ) , with collections during the third and fourth quarters in particular exceeding projected levels.Fee and commission income decreased to SEK 93m ( 121 ) .",
+    "subject": "Collections against active forecast",
+    "object": "SEK 348m"
+  },
+  {
+    "org_sent": "Net result from financial transactions totalled SEK -6 m ( - 79 ) , with exchange rate effects having a positive effect while unrealised changes in value had a negative effect .",
+    "subject": "Net result from financial transactions",
+    "object": "SEK -6m"
+  },
+  {
+    "org_sent": "Other operating income totalled SEK 14m ( 22 ) during the year .",
+    "subject": "Other operating income",
+    "object": "SEK 14m"
+  },
+  {
+    "org_sent": "Personnel expenses for the year totalled SEK -862 m ( - 875 ) .",
+    "subject": "Personnel expenses for the year",
+    "object": "SEK -862m"
+  },
+  {
+    "org_sent": "Collection costs decreased SEK 53m during the year to SEK -734 m ( - 787 ) , due partly to efficiency measures and digital investments .",
+    "subject": "Collection",
+    "object": "SEK 53m"
+  },
+  {
+    "org_sent": "Administrative expenses increased SEK 45m during the quarter to SEK -613 m ( - 568 ) .",
+    "subject": "Administrative expenses",
+    "object": "SEK 45m"
+  },
+  {
+    "org_sent": "Depreciation and amortisation of tangible and intangible assets totalled SEK -134 m ( - 122 ) , of which SEK -12 m pertains to impair - ment of IT projects.Net profit for the yearProfit from participations in joint ventures totalled SEK 57m ( 62 ) .",
+    "subject": "Depreciation and amortisation of tangible and intangible assets",
+    "object": "SEK -134m"
+  },
+  {
+    "org_sent": "Income tax expense for the year totalled SEK -41 m ( - 143 ) .",
+    "subject": "Income tax expense for the year",
+    "object": "SEK -41m"
+  },
+  {
+    "org_sent": "The effec - tive tax rate was 50 per cent ( 18.6 ) and is affected primarily by non-de-ductible interest expenses for Tier 2 capital included in own funds , non-deductible expenses for fair value hedging of shares in subsidiaries , and a tax amount of SEK -14 m attributable to previous years .",
+    "subject": "The effec - tive tax rate",
+    "object": "SEK -14m"
+  },
+  {
+    "org_sent": "Net profit totalled SEK 41m ( 605 ) .",
+    "subject": "Net profit",
+    "object": "SEK 41m"
+  },
+  {
+    "org_sent": "Total assets decreased SEK 2,523 m as compared with 31 December 2019 and totalled SEK 31,864 m ( 34,387 ) .",
+    "subject": "Total assets",
+    "object": "SEK 2,523m"
+  },
+  {
+    "org_sent": "The change is primarily attributable to a decrease of SEK -3,228 m in acquired loan portfolios , a result of low acquisition volumes as well as exchange rate effects .",
+    "subject": "The change",
+    "object": "SEK -3,228m"
+  },
+  {
+    "org_sent": "Cash and interest - bearing securities increased SEK 446m , while other assets increased SEK 259m .",
+    "subject": "Cash and interest - bearing securities",
+    "object": "SEK 446m"
+  },
+  {
+    "org_sent": "Cash and interest - bearing Acquired loan portfoliosDeposits from the publicTotal interest - bearing liabilitiesTotal liabilities and equity1 ) This item does not correspond to an item of the same designation in the balance sheet , but to several corresponding items.Total interest - bearing debt amounted to SEK 25,104 m ( 28,187 ) .",
+    "subject": "This item",
+    "object": "SEK 25,104m"
+  },
+  {
+    "org_sent": "The change is mainly attributable to deposits from the public , which de-creased SEK -3,507 m .",
+    "subject": "The change",
+    "object": "SEK -3,507m"
+  },
+  {
+    "org_sent": "In Sweden , deposits from the public under the HoistSpar brand amounted to SEK 10,552 m ( 12,243 ) , of which SEK 5,391 m ( 6,400 ) is attributable to fixed term deposits of one - , two - and three - year durations .",
+    "subject": "deposits from the public under the HoistSpar brand",
+    "object": "SEK 10,552m"
+  },
+  {
+    "org_sent": "At 31 December 2020 , deposits from the public in Germany were SEK 7,376 m ( 9,192 ) , of which SEK 7,115 m ( 6,163 ) is attributable to fixed term deposits of one - to five - year durations .",
+    "subject": "deposits from the public in Germany",
+    "object": "SEK 7,376m"
+  },
+  {
+    "org_sent": "At 31 December 2020 , the outstanding bond debt totalled SEK 7,176 m ( 6,752 ) , of which SEK 6,355 m ( 5,900 ) was comprised of issued securities .",
+    "subject": "the outstanding bond debt",
+    "object": "SEK 7,176m"
+  },
+  {
+    "org_sent": "The change in issued securities is mainly attributable to the new EUR 200m bond issued in November .",
+    "subject": "The change in issued securities",
+    "object": "EUR 200m"
+  },
+  {
+    "org_sent": "Portions of the outstanding EUR 250m bond maturing in 2021 were also repurchased in conjunction with this transaction at a nominal value of EUR 102m .",
+    "subject": "Portions of",
+    "object": "EUR 250m"
+  },
+  {
+    "org_sent": "Other liabilities increased SEK 300m to SEK 1,602 m ( 1,302 ) .",
+    "subject": "Other liabilities",
+    "object": "SEK 300m"
+  },
+  {
+    "org_sent": "Equity totalled SEK 5,158 m ( 4,898 ) .",
+    "subject": "Equity",
+    "object": "SEK 5,158m"
+  },
+  {
+    "org_sent": "Cash flow from operating Cash flow from investing Cash flow from financing Cash flow for the periodCash flow from operating activities totalled SEK 1,557 m , as compared with SEK 631m during Q4 2019 .",
+    "subject": "Cash flow from operating Cash flow from investing Cash flow from financing Cash flow for the periodCash flow from operating activities",
+    "object": "SEK 1,557m"
+  },
+  {
+    "org_sent": "Amortisation of acquired loan portfolios increased during the quarter and totalled SEK 1,005 m ( 805 ) , with the increase attributable to increased collections as compared with Q4 2019 .",
+    "subject": "Amortisation of acquired loan portfolios",
+    "object": "SEK 1,005m"
+  },
+  {
+    "org_sent": "Cash flow from other assets and liabilities amounted to SEK 406m ( - 51 ) , the majority of which pertains to realised cash flows for FX hedging.Cash flow from investing activities totalled SEK -1,313 m ( - 2,670 ) .",
+    "subject": "Cash flow from other assets and liabilities",
+    "object": "SEK 406m"
+  },
+  {
+    "org_sent": "Portfolio acquisition activity remained low during the quarter , totalling SEK -844 m ( - 2,988 ) .",
+    "subject": "Portfolio acquisition activity",
+    "object": "SEK -844m"
+  },
+  {
+    "org_sent": "Hoist Finance \u2019s net investment in bonds and other securities totalled SEK -466 m ( 309 ) during the quarter .",
+    "subject": "",
+    "object": "SEK -466m"
+  },
+  {
+    "org_sent": "Other cash flow within investing activities totalled SEK -3 m ( 9 ) .",
+    "subject": "Other cash flow within investing activities",
+    "object": "SEK -3m"
+  },
+  {
+    "org_sent": "Cash flow from financing activities totalled 396m ( - 1,963 ) .",
+    "subject": "Cash flow from financing activities"
+  },
+  {
+    "org_sent": "Net cash flow from deposits from the public totalled SEK -563 m ( - 224 ) during the quarter .",
+    "subject": "",
+    "object": "SEK -563m"
+  },
+  {
+    "org_sent": "The bond issue and repurchase conducted during the quarter resulted in a cash flow of SEK 988m .",
+    "subject": "The bond issue and repurchase",
+    "object": "SEK 988m"
+  },
+  {
+    "org_sent": "The quarter \u2019s repayment of bonds in securitisation company Marathon SPV S.r.l. totalled SEK -17 m ( - ) .",
+    "subject": "The quarter \ufffds repayment of bonds in securitisation company Marathon SPV S.r.l.",
+    "object": "SEK -17m"
+  },
+  {
+    "org_sent": "Other cash flow from financing activities totalled SEK -12 m ( - 11 ) and pertains to amortisation of lease liability.Total cash flow for the quarter amounted to SEK 640m , as compared with SEK -4,002 m for fourth quarter 2019 .",
+    "subject": "Other cash flow from financing activities",
+    "object": "SEK -12m"
+  },
+  {
+    "org_sent": "Net interest income for the Parent Company totalled SEK 301m ( 311 ) during the fourth quarter .",
+    "subject": "Net interest income for the Parent Company",
+    "object": "SEK 301m"
+  },
+  {
+    "org_sent": "Interest expense decreased SEK -4 m due mainly to lower costs for de-posits from the public and unsecured debt .",
+    "subject": "Interest expense",
+    "object": "SEK -4m"
+  },
+  {
+    "org_sent": "Net operating income totalled SEK 617m ( 342 ) .",
+    "subject": "Net operating income",
+    "object": "SEK 617m"
+  },
+  {
+    "org_sent": "Dividend distribution from an English subsidiary during the quarter had a positive impact on earnings of SEK 302m .",
+    "subject": "Dividend distribution from an English subsidiary during the quarter",
+    "object": "SEK 302m"
+  },
+  {
+    "org_sent": "Net result from financial transactions amounted to SEK -19 m ( - 28 ) and was mainly attributable to costs in connection with the bond repurchase in November , and to some extent exchange rate fluctuations for assets and liabilities in foreign currencies and to market value fluctuations for bonds .",
+    "subject": "Net result from financial transactions",
+    "object": "SEK -19m"
+  },
+  {
+    "org_sent": "Other operating income totalled SEK 32m ( 60 ) and is mainly attributable to management fees invoiced to sub-sidiaries .",
+    "subject": "Other operating income",
+    "object": "SEK 32m"
+  },
+  {
+    "org_sent": "Management fees decreased during the quarter as a result of suppliers invoicing expenses to subsidiaries directly , rather than via the Operating expenses totalled SEK -275 m ( - 329 ) .",
+    "subject": "Management fees",
+    "object": "SEK -275m"
+  },
+  {
+    "org_sent": "The decrease is attrib - utable to a reduction of SEK 61m in administrative expenses , due mainly to lower consultant and IT costs .",
+    "subject": "The decrease",
+    "object": "SEK 61m"
+  },
+  {
+    "org_sent": "Profit before credit losses totalled SEK 342m ( 13 ) .",
+    "subject": "Profit before credit losses",
+    "object": "SEK 342m"
+  },
+  {
+    "org_sent": "Earnings before tax totalled SEK 277m ( 52 ) .",
+    "subject": "tax",
+    "object": "SEK 277m"
+  },
+  {
+    "org_sent": "Impairment gains and losses of SEK 30m ( 14 ) pertain to the difference between projected and actual collections , portfolio revaluations and credit reserves for perform - ing loans .",
+    "subject": "Impairment gains and losses of SEK 30m ( 14 )",
+    "object": "SEK 30m"
+  },
+  {
+    "org_sent": "Impairment of shares in subsidiaries totalled SEK -116 m ( - ) .",
+    "subject": "Impairment of shares in subsidiaries",
+    "object": "SEK -116m"
+  },
+  {
+    "org_sent": "Shares in participating interests totalled SEK 21m ( 25 ) .",
+    "subject": "Shares in participating interests",
+    "object": "SEK 21m"
+  },
+  {
+    "org_sent": "Net profit for the period totalled SEK 233m ( - 64 ) , with change in tax allocation reserve of SEK -9 m ( - 47 ) .",
+    "subject": "Net profit for the period",
+    "object": "SEK 233m"
+  },
+  {
+    "org_sent": "Tax expense totalled SEK -35 m ( - 69 ) , of which SEK -7 m ( - 69 ) pertains to tax attributable to previous years.Related - party transactionsThe nature and scope of related - party transactions remain unchanged from 31 December 2019 and are described in the Annual Report .",
+    "subject": "Tax expense",
+    "object": "SEK -35m"
+  }
+]
